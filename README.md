@@ -1,5 +1,7 @@
 # refactor-assignment-ksb
 
+![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+
 This project was refactored with HTML and CSS. 
 
 In this project I was task to assess the code for of a businesses the offers SEO Optimization, Offer Online Reputation Asistance and also assist with Social Media Marketing. The goal was to refactor the code in order to make the code more accessible and cleaner.

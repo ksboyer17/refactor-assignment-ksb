@@ -17,4 +17,9 @@ In order to access the code in this repository please follow the following steps
   
   Overall this project allowed me to practice both my HTML and CSS skills. I was able to accomplish this by familiarizing myself with HTML semantic elements that improve the sites accessibility. Furthermore, I learned how to consolidate CSS elements by altering classes, and in some cases replacing classes all together with simple HTML semantic elements such as a "footer".
   
+<<<<<<< HEAD
+=======
+  
+  ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+>>>>>>> master
     

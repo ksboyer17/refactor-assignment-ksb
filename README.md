@@ -1,7 +1,5 @@
 # refactor-assignment-ksb
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
-
 This project was refactored with HTML and CSS. 
 
 In this project I was task to assess the code for of a businesses the offers SEO Optimization, Offer Online Reputation Asistance and also assist with Social Media Marketing. The goal was to refactor the code in order to make the code more accessible and cleaner.
@@ -19,4 +17,6 @@ In order to access the code in this repository please follow the following steps
   
   Overall this project allowed me to practice both my HTML and CSS skills. I was able to accomplish this by familiarizing myself with HTML semantic elements that improve the sites accessibility. Furthermore, I learned how to consolidate CSS elements by altering classes, and in some cases replacing classes all together with simple HTML semantic elements such as a "footer".
   
+  
+  ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
     

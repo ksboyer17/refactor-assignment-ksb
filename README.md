@@ -7,7 +7,7 @@ In this project I was task to assess the code for of a businesses the offers SEO
 By refactoring the code, I was able to reduce the overall amounnt of code by consolidating CSS elements while maintaining the overall funcationality of the code. In addition, I was able to change a large amount of "divs" to html semantic elements which made the websites code more accessible and simpler, which improves the ability for other developers to understand the code. 
 
 In order to access the code in this repository please follow the following steps:
-  1. Ensure you are on the master branch
+  1. Ensure you are on the main branch
   2. Open the Develop folder
   3. Click the Assets folder
   4. Open the index.html file
